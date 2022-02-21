@@ -30,7 +30,7 @@ class Pessoa {
   int idade;
   bool casado;
 
-  int? aniversario(){
+  int aniversario(){
     print("Parabéns! $nome");
       idade = idade + 1;
     return idade;
